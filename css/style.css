@@ -1,6 +1,7 @@
 [ class^="col"] {
-    max-height: 200px;
+    max-height: 250px;
     border: 1px solid black;
+    width: 200px;
 }
 
 .img-fluid {
