@@ -1,13 +1,12 @@
 [ class^="col"] {
-    max-height: 250px;
+    min-height: 150px;
     border: 1px solid black;
-    width: 200px;
 }
 
 .img-fluid {
-    max-height: 100%;
+    /* max-height: 135%; */
 }
 
 body {
-    background-color: rgb(224, 88, 64);
+    background-color:lightgray;
 }
